@@ -48,5 +48,5 @@ HTML/CSS templates for subscription and result pages
 #failed
 ![Screenshot (26)](https://github.com/adx2001/newsLetter/assets/64160737/a8084d85-4b4d-491b-bdeb-6a30aefd2a4e)
 
-
-
+#mailchimp dashboard
+![Web_Photo_Editor](https://github.com/adx2001/newsLetter/assets/64160737/d72e563c-e85f-47f4-af42-5c05ed6fb51f)
