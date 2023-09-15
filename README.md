@@ -39,3 +39,14 @@ Built with Express.js
 Mailchimp API integration
 HTML/CSS templates for subscription and result pages
 
+#index
+![Screenshot (24)](https://github.com/adx2001/newsLetter/assets/64160737/f8dfe592-f245-4e24-91a4-ae910eed13ad)
+
+#success
+![Screenshot (25)](https://github.com/adx2001/newsLetter/assets/64160737/3b2c4d19-d1c6-457b-a823-155d85c813b4)
+
+#failed
+![Screenshot (26)](https://github.com/adx2001/newsLetter/assets/64160737/a8084d85-4b4d-491b-bdeb-6a30aefd2a4e)
+
+
+
